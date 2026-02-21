@@ -1,5 +1,4 @@
 import pytest
-
 import requests
 from constants import BASE_URL, HEADERS
 from faker import Faker
